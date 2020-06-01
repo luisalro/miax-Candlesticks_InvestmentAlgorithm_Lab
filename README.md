@@ -21,8 +21,8 @@ Code that generates a dataframe with the following structure (for all assets) wi
                                 
 - Average result per operation
 - Accumulated benefit
--% positive days
--% negative days
+- % positive days
+- % negative days
 - Medium top fork
 - Middle lower fork
 - Number of operations
