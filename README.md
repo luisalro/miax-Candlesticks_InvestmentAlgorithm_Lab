@@ -38,7 +38,7 @@ For each asset, each day, if the price_departure is> = 0.75, buy at the opening 
 
 - Assets up 3 cents (stop profit).
 
--T he asset falls 10 cents (stop loss).
+- The asset falls 10 cents (stop loss).
 
 If none of the above occurs, sell at closing price
 
