@@ -1,29 +1,31 @@
 # miax-candlesticks_algorithm
 
-Candlestick algorithm development
+## Candlestick algorithm development
+
+### Instructions
 
 
-Para cada activo, cada día, compra a precio de apertura y vende cuando ocurra el primer de los siguientes eventos: 
-- El activo sube 3 céntimos (stop profit)
-- El activo cae 10 céntimos (stop loss) 
-Si no ocurre ninguno de los anteriores, vende a precio de cierre
+For each asset, each day, buy at the opening price and sell when the first of the following events occurs:
+- Assets go up 3 cents (stop profit)
+- The asset falls 10 cents (stop loss)
+If none of the above occurs, sell at closing price
 
-Ojo, habrá días positivos y negativos a la vez, en estos casos, suponemos que toca primero el stop loss
+Be careful, there will be positive and negative days at the same time, in these cases, we suppose that you play the stop loss first
 
-El capital que invertimos en cada activo, cada día, debe ser 30.000 €
-La comisión de cada compra y venta será de 0.0003 * capital
+The capital that we invest in each asset, every day, must be € 30,000
+The commission for each purchase and sale will be 0.0003 * capital
 
-Entregable: Código que genere un dataframe con la siguiente estructura (para todos los activos) con los siguientes índices por fila:
+### Deliverable 
+
+Code that generates a dataframe with the following structure (for all assets) with the following indexes per row:
                                 
-- Resultado medio por operación		
-- Beneficio acumulado		          
-- % días positivos		           
-- % días negativos		            
-- Horquilla superior media	    
-- Horquilla inferior media		    
-- Número de operaciones		            
-
-Y grafique el beneficio acumulado por activo. 
+- Average result per operation
+- Accumulated benefit
+-% positive days
+-% negative days
+- Medium top fork
+- Middle lower fork
+- Number of operations
 
  
 
