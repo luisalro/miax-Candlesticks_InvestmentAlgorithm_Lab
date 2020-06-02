@@ -1,6 +1,6 @@
 # miax-candlesticks_algorithm
 
-This exercise was created was created by Guillermo Melendez , professor form mIA-X master's degree. It necessarily needed to be programmed in R.
+This exercise was created  by Guillermo Melendez , professor from mIA-X master's degree at BME Institute. It necessarily needed to be programmed in R.
 
 ### Instructions
 
