@@ -1,5 +1,7 @@
 # miax-candlesticks_algorithm
 
+This exercise was created was created by Guillermo Melendez , professor form mIA-X master's degree. It necessarily need to be programmed in R.
+
 ### Instructions
 
 ### 1st part
