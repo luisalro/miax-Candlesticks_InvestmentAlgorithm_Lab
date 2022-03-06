@@ -4,6 +4,14 @@ Check out his LinkedIn profile.
 
 <a href="https://www.linkedin.com/in/dptoestrategia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
+### Introduction
+
+When making trading decisions, we can utilize several different information sources on our technical analysis. One of these sources is OHLC (open, high, low, close) data. Candlestick charts can be plotted to extract patterns from OHLC data for any tradable instrument.
+
+
+
+
+A candlestick pattern is a movement in prices shown graphically on a candlestick chart that some believe can predict a particular market movement.¹
 
 
 ### Instructions
