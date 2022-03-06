@@ -10,6 +10,7 @@ When making trading decisions, we can utilize several different information sour
 
 A candlestick pattern is a movement in prices shown graphically on a candlestick chart that some believe can predict a particular market movement.
 
+![alt text](https://static.ffbbbdc6d3c353211fe2ba39c9f744cd.com/wp-content-learn/uploads/2020/11/22163923/Bearish-and-Bullish-Candlestick.jpg)
 
 ### Instructions
 
