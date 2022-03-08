@@ -33,7 +33,7 @@ The commission for each purchase and sale will be 0.0003 * capital.
 
 Code that generates a dataframe with the following structure (for all assets) with the following indexes per row:
                                 
-
+![My Image](output.png)
 
 And plot the accumulated profit per asset. For example:
 
