@@ -1,4 +1,4 @@
-This lab was created  by Guillermo Melendez , professor from mIA-X master's degree at BME Institute. It necessarily needed to be programmed in R.
+This lab was created  by Guillermo Meléndez , professor from mIA-X master's degree at BME Institute. It necessarily needed to be programmed in R.
 
 Check out his LinkedIn profile.
 
