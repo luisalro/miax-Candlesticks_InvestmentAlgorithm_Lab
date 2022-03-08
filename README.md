@@ -37,7 +37,7 @@ Code that generates a dataframe with the following structure (for all assets) wi
 
 And plot the accumulated profit per asset. For example:
 
-
+![My Image](MAP.png)
 
 
 
