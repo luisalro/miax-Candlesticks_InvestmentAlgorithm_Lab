@@ -31,7 +31,7 @@ The commission for each purchase and sale will be 0.0003 * capital.
 
 ### Deliverable 
 
-Code that generates a dataframe with the following structure (for all assets) with the following indexes per row:
+A R script that generates a dataframe with the following structure (for all assets) with the following indexes per row:
                                 
 ![My Image](output.png)
 
