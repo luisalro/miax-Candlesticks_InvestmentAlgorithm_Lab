@@ -1,5 +1,3 @@
-# Ejercicio 7: Algoritmo de mechas
-
 # Creamos un DF en el que guardaremos los datos de nuestra inversion.
 
 inversion_ibex <- open
