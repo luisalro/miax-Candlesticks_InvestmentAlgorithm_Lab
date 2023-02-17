@@ -1,5 +1,3 @@
-This lab it is necessarily needed to be programmed in R.
-
 ### Introduction
 
 When making trading decisions, we can utilize several different information sources on our technical analysis. One of these sources is OHLC (open, high, low, close) data. Candlestick charts can be plotted to extract patterns from OHLC data for any tradable instrument.
